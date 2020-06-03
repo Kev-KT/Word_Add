@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Word Adds-Up",
+"productVersion": "0.1",
+"dataUrl": "Word_Add.data.unityweb",
+"asmCodeUrl": "Word_Add.asm.code.unityweb",
+"asmMemoryUrl": "Word_Add.asm.memory.unityweb",
+"asmFrameworkUrl": "Word_Add.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
